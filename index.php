@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Anglisfun.tv</title>
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/mdb.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/mdb.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body>
@@ -23,7 +23,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <a class="nav-link waves-effect waves-light" href="/pages/Phonetics/exercicehomepage.html"><img
-                    src="img/LogoAnglisfunSM.png" alt="Logo arbre d'automne anglisfun"><span
+                    src="assets/    img/LogoAnglisfunSM.png" alt="Logo arbre d'automne anglisfun"><span
                     class="sr-only">(current)</span></a>
         </div>
     </nav>
@@ -143,10 +143,10 @@
 
 
 
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/popper.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/mdb.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/js/popper.min.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/js/mdb.min.js"></script>
     <script type="text/javascript"></script>
 
 </body>
