@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="/assets/css/bootstrap.css">
     <link rel="stylesheet" href="/assets/css/mdb.min.css">
     <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/phonetics.css">
 </head>
 
 <body>
@@ -56,17 +57,22 @@
   </div>
 </nav>  
     <div class="container mt-5 text-center">
-        <h1>Bienvenue dans la section Phonétique d'anglisfun.tv!</h1>
-        <p>Pourquoi des cours de phonétique? Tout simplement parce que la phonétique est la fondation de la compréhension.<br>
-        Nous le savons tous, la prononciation anglaise est inégale et non intuitive. C'est pour cela que j'ai voulu inclure de la phonétique.<br>
-
-        Vous pourrez accéder aux leçons via la barre de navigation.
+        <h1>Leçon 1 : Les bases de la phonétique</h1>
+        <p>La phonétique est la base de tous langages.<br>
+        Avant d'être retranscrite, une langue est avant tout orale. C'est pour cela qu'il existe des langues uniquement orales, mais aucune langue uniquement écrite hors braille.<br>
+        Nous allons voir pourquoi l'anglais est une langue réputée pour sa prononciation hasardeuse afin de mieux comprendre ses codes phonétiques.
         </p>
-        
+        <h2>Les origines de l'anglais</h2>
+        <p>
+            L'anglais appartient à la famille des langues germaniques occidentales. Ses origines premières viennent donc de ... l'Allemagne ancienne.<br>
+            En effet, avant d'être envahis par les normands en 1066, les saxons reignaient sur l'angleterre, avec les angles d'où l'appelation Anglo-saxons.
+        </p>
+        <h2>Comprendre la phonétique : L'alphabet IPA</h2>
+        <p>L'International Phonetic Alphabet (abrégé IPA) est l'alphabet permettant de retranscrire phonétiquement un mot. Vous pourrez retrouver dans cet alphabet la plupart de nos lettres provenant de l'alphabet romain, mais aussi d'autres comme le Eth (ð) provenant des anciennes langues scandinaves.</p>
     </div>
 
     <!-- Footer -->
-    <footer class="page-footer font-small elegant-color pt-4 mt-5 fixed-bottom">
+    <footer class="page-footer font-small elegant-color pt-4 mt-5 footer">
 
         <!-- Footer Elements -->
         <div class="container">
@@ -84,7 +90,6 @@
                         <i class="fas fa-search" aria-hidden="true"></i>
                     </form>
                     <!-- Form -->
-
                 </div>
                 <!--Grid column-->
 

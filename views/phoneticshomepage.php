@@ -32,7 +32,7 @@
           aria-haspopup="true" aria-expanded="false">
            Phonétique </a>
         <div class="dropdown-menu dropdown-menu-right dropdown-info" aria-labelledby="navbarDropdownMenuLink-4">
-          <a class="dropdown-item" href="#">Leçon 1</a>
+          <a class="dropdown-item" href="phoneticslesson1.php">Leçon 1</a>
           <a class="dropdown-item" href="#">Leçon 2</a>
           <a class="dropdown-item" href="#">Leçon 3</a>
           <a class="dropdown-item" href="#">Leçon 4</a>
