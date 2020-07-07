@@ -19,3 +19,14 @@ COULEURS 2
      width: 100%;
 
  }
+
+
+    
+#navbar a{
+    display: table-cell;
+    color: white ;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    text-shadow: 2px 2px #2a2a2e ;
+    transition: ease-in color 100ms
+}

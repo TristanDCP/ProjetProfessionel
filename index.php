@@ -22,8 +22,8 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <a class="nav-link waves-effect waves-light" href="/pages/Phonetics/exercicehomepage.html"><img
-                    src="assets/    img/LogoAnglisfunSM.png" alt="Logo arbre d'automne anglisfun"><span
+            <a class="nav-link waves-effect waves-light" href="views/homepage.php"><img
+                    src="assets/img/LogoAnglisfunSM.png" alt="Logo arbre d'automne anglisfun"><span
                     class="sr-only">(current)</span></a>
         </div>
     </nav>
