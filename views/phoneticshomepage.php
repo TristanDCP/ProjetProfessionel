@@ -117,7 +117,11 @@
     </footer>
     <!-- Footer -->
 
+<<<<<<< HEAD
 <!-- TEXT AREA SCROLLABLE -->
+=======
+
+>>>>>>> 3103632237cbbe091e2d060fe2fddc75c90ee4d5
 
 
     <script type="text/javascript" src="/assets/js/jquery.min.js"></script>
