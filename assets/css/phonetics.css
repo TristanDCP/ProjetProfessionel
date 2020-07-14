@@ -1,0 +1,9 @@
+.footer{
+    bottom: sticky;
+}
+
+@media screen and (max-width: 1200px) {
+  .footer{
+      bottom: fixed;
+  }
+  }

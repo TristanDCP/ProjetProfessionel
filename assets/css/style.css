@@ -1,0 +1,104 @@
+/* COULEURS
+{"Violet Blue":"3b429f","Lavender Floral":"aa7dce","Nyanza":"dceed1","Cambridge Blue":"aac0aa","Pine Tree":"292e1e"}
+
+
+COULEURS 2
+{"Raisin Black":"2a2a2e","Periwinkle Crayola":"c4c6e7","Marigold":"f5a614"}
+ */
+
+ html, body {
+    height: 100%;
+  }
+
+ .btsbutton{
+     width: 40%;
+ }
+
+ #footer{
+     background-color: #2a2a2e;
+     width: 100%;
+
+ }
+
+ .bigtext{
+     font-size: 200%;
+     color: black;
+ }
+
+    
+#navbar a{
+    display: table-cell;
+    color: white ;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    text-shadow: 2px 2px #2a2a2e ;
+    transition: ease-in color 100ms
+}
+
+.backgroundimg{
+    background-image: url(../img/forestbackground.png) ;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin-top: 0;
+}
+
+.homepagetext{
+    color:white;
+}
+
+.navshadow {
+    box-shadow: 0 4px 4px -4px rgb(0, 0, 0);
+}
+
+.footershadow{
+    box-shadow:inset 0 15px 5px -16px rgb(255, 255, 255);
+}
+
+
+
+/* Animation */
+
+@keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+.animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-fill-mode: both
+}
+
+.animatedFadeInUp {
+    opacity: 0
+}
+
+.fadeInUp {
+    opacity: 0;
+    animation-name: fadeInUp;
+    -webkit-animation-name: fadeInUp;
+}
+
+.squaredbox{
+    height: auto;
+    width: auto;
+}
